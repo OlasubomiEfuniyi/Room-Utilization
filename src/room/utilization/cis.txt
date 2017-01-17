@@ -1,0 +1,223 @@
+CIS  100	Introduction to Computer Appli	cations			4 Credits	3 Hours
+Section	Days	Class Time		Room	Instructor		
+0700		 - 		OL-01	Rani, Chigurupati		Writing Intensive
+	Th	07:00AM - 08:40AM		FH-906	Rani, Chigurupati		Writing Intensive
+0800	MW	08:00AM - 09:40AM		MU-M1406	Bleckley-Coly, Helen		
+0801	F	08:30AM - 12:10PM		FH-906	Errera, Alberto		
+0802	TuF	08:30AM - 10:10AM		FH-907	Greer, Robert		
+0803	TuTh	08:30AM - 10:10AM		FH-905	Bleckley-Coly, Helen		
+0900	TuTh	09:00AM - 10:40AM		MU-M1410	Yan, Hua		
+0901	MW	09:00AM - 10:40AM		MU-M1209	Yan, Hua		
+0902	TuTh	09:00AM - 10:40AM		MU-M1209	Stevenson, Lori		
+0903	Sat	09:00AM - 12:40PM		FH-907	Errera, Alberto		
+
+0904	Sun	09:00AM - 12:40PM	FH-906	Cooper, Kenneth			
+0905	MW	09:30AM - 11:10AM	FH-906	Jayaweera, Darshani			
+0906	MW	09:30AM - 11:10AM	FH-905	Linares, Carlos			
+0907	MW	09:30AM - 11:10AM	FH-907	Eubanks, Melvin			
+1000	TuTh	10:30AM - 12:10PM	FH-907	Greer, Robert			
+1001	F	10:30AM - 02:10PM	MU-M1410	Greer, Robert			
+1101	MW	11:00AM - 12:40PM	MU-M1209	Zaidi, Syed Rashid			
+1102		 - 	OL-01	Leung, Lin			
+	Th	11:00AM - 12:40PM	MU-M1410	Leung, Lin			
+1103	MW	11:30AM - 01:10PM	FH-906	Ginsberg, Toby			
+1104	TuTh	11:00AM - 12:40PM	MU-M1209	O'Faire, Lashawna			
+1201	F	12:30PM - 04:10PM	FH-906	Errera, Alberto			
+1300	Th	01:00PM - 02:40PM	MU-M1402	Greer, Robert			
+	Tu	01:00PM - 02:40PM	MU-M1410	Greer, Robert			
+1301	M	01:00PM - 04:40PM	MU-M1410	Kok, Ahmet			
+1302	Sat	01:00PM - 04:40PM	FH-907	Roy, Manawendra			
+1303	Sun	01:00PM - 04:40PM	FH-906	Cooper, Kenneth			
+1304	M	01:30PM - 05:10PM	FH-905	Linares, Carlos			
+1400	TuTh	02:00PM - 03:40PM	MU-M1209	Azhar, Mohammad			
+1402	M	02:30PM - 04:10PM	FH-906	Wei, Ching-Song			
+	Th	02:30PM - 04:10PM	MU-M1409	Wei, Ching-Song			
+1500		 - 	OL-01	Leung, Lin			
+	Th	03:00PM - 04:40PM	MU-M1410	Leung, Lin			
+1501	TuTh	03:30PM - 05:10PM	FH-905	Salvati, Anna			
+1701	TuTh	05:20PM - 06:10PM	FH-905	Vargas, Jose			
+	TuTh	06:20PM - 07:10PM	FH-904	Vargas, Jose			
+1703	MW	05:30PM - 07:10PM	MU-M1209	Yan, Hua			
+1704	F	05:30PM - 09:10PM	FH-907	Roy, Manawendra			
+1705	F	05:30PM - 09:10PM	FH-1007	Salvati, Anna			
+1900	MW	07:15PM - 08:55PM	MU-M1209	Yan, Hua			
+1901	TuTh	07:15PM - 08:55PM	MU-M1209	Eubanks, Melvin			
+								
+CIS  115	Introduction to Computer and Information Security		4 Credits	3 Hours
+Section	Days	Class Time	Room	Instructor			
+1700	F	05:20PM - 09:00PM	FH-905	O'Sullivan, John			
+1701	F	05:20PM - 09:00PM	FH-905	O'Sullivan, John			
+								
+CIS  155	Computer Hardware		5 Credits	4 Hours
+Section	Days	Class Time	Room	Instructor			
+1100	MW	11:30AM - 01:45PM	FH-1113	Tang, Hao			
+1200	TuTh	12:30PM - 02:45PM	FH-1113	Nossa, Rachel			
+1700	MW	05:20PM - 07:35PM	FH-1113	Nossa, Rachel			
+1701	TuTh	05:20PM - 07:35PM	FH-1113	Nossa, Rachel			
+								
+CIS  200	Introduction Systems and Technologies		4 Credits	3 Hours
+Section	Days	Class Time	Room	Instructor			
+1100	Th	10:30AM - 11:20AM	FH-613	Romano, Robert			
+	Tu	10:30AM - 11:20AM	FH-904	Romano, Robert			
+	TuTh	11:30AM - 12:20PM	FH-905	Romano, Robert			
+
+1300	Sat	01:00PM - 04:40PM	FH-905	Halliburton, Cecily		
+1400	M	02:30PM - 04:10PM	FH-1113	Persaud, Colin		
+	Th	02:30PM - 04:10PM	FH-907	Persaud, Colin		
+1700	TuTh	05:30PM - 07:10PM	MU-M1209	Wagner, Robert		
+1800	MW	06:20PM - 07:10PM	MU-M1106	Anderson, Rahcim		
+	MW	07:20PM - 08:10PM	MU-M1410	Anderson, Rahcim		
+2000	MW	08:20PM - 10:00PM	MU-M1410	Anderson, Rahcim		
+								
+CIS  255	Computer Software				5 Credits	4 Hours
+Section	Days	Class Time	Room	Instructor		
+0900	TuTh	09:30AM - 11:45AM	FH-1113	Linares, Carlos		
+1900	TuTh	07:40PM - 09:55PM	FH-1113	Zaidi, Syed Rashid		
+								
+CIS  345	Telecommunication Networks I				5 Credits	4 Hours
+Section	Days	Class Time	Room	Instructor		
+1200	Sun	12:00PM - 05:10PM	FH-907	Leung, Lin		Writing Intensive
+1201	TuTh	01:30PM - 02:20PM	FH-906	Rani, Chigurupati		Writing Intensive
+	TuThF	12:30PM - 01:20PM	FH-904	Rani, Chigurupati		Writing Intensive
+1700	TuTh	05:20PM - 06:10PM	FH-904	Nossa, George		
+	TuTh	06:20PM - 07:35PM	FH-905	Nossa, George		
+								
+CIS  385	Web Programming I				4 Credits	3 Hours
+Section	Days	Class Time	Room	Instructor		
+1700	MW	05:20PM - 06:10PM	FH-906	Vargas, Jose		
+	MW	06:20PM - 07:10PM	FH-907	Vargas, Jose		
+								
+CIS  395	Database Systems I				5 Credits	4 Hours
+Section	Days	Class Time	Room	Instructor		
+1101	MW	11:30AM - 01:45PM	FH-907	Wei, Ching-Song		
+1900	MW	07:40PM - 08:30PM	FH-1113	Benjamin, Colven		
+	MW	08:40PM - 09:55PM	FH-905	Benjamin, Colven		
+								
+CIS  440	Unix				4 Credits	3 Hours
+Section	Days	Class Time	Room	Instructor		
+0900	Sat	09:00AM - 12:40PM	FH-906	Nossa, George		
+1300	F	01:30PM - 05:10PM	FH-905	Vargas, Jose		
+1700	Th	05:30PM - 07:10PM	FH-607	Chen, Danny		
+	Tu	05:30PM - 07:10PM	MU-M1408	Chen, Danny		
+1800	F	06:00PM - 09:45PM	FH-906	Vargas, Jose		
+								
+CIS  445	Telecommunications Networks II / LAN				5 Credits	4 Hours
+Section	Days	Class Time	Room	Instructor		
+1400	F	02:30PM - 03:20PM	FH-1113	Roy, Manawendra		
+	F	03:30PM - 05:10PM	FH-907	Roy, Manawendra		
+	Tu	03:20PM - 04:10PM	FH-1113	Roy, Manawendra		
+	Tu	04:20PM - 05:10PM	FH-907	Roy, Manawendra		
+1900	TuTh	07:40PM - 08:30PM	FH-907	Azhar, Mohammad		
+	TuTh	08:40PM - 09:55PM	FH-907	Azhar, Mohammad		
+								
+
+CIS  455	Network Security				5 Credits	4 Hours
+Section	Days	Class Time		Room	Instructor		
+1000	F	10:30AM - 11:45AM		FH-1113	Roy, Manawendra		
+	F	11:55AM - 12:45PM		FH-905	Roy, Manawendra		
+	Tu	11:30AM - 12:20PM		FH-904	Roy, Manawendra		
+	Tu	12:30PM - 01:45PM		FH-905	Roy, Manawendra		
+1700	TuTh	05:20PM - 06:10PM		FH-907	Zaidi, Syed Rashid		
+	TuTh	06:15PM - 07:30PM		FH-906	Zaidi, Syed Rashid		
+								
+CIS  485	Web Programming Il				4 Credits	3 Hours
+Section	Days	Class Time		Room	Instructor		
+1900	MW	07:40PM - 09:20PM		FH-907	Vargas, Jose		
+								
+CIS  495	Database Systems Il				4 Credits	3 Hours
+Section	Days	Class Time		Room	Instructor		
+1700	MW	05:20PM - 06:10PM		FH-907	Benjamin, Colven		
+	MW	06:20PM - 07:10PM		FH-906	Benjamin, Colven
+CSC  101	Principles in Information Technology and Computation		3 Credits	3 Hours
+Section	Days	Class Time	Room	Instructor		
+1200	M	12:30PM - 01:45PM	MU-M1106	Azhar, Mohammad		
+	W	12:30PM - 01:45PM	FH-707	Azhar, Mohammad		
+1401	TuTh	02:30PM - 03:45PM	FH-906	Rani, Chigurupati		Writing Intensive
+								
+
+CSC  110	Computer Programming I			5 Credits	4 Hours
+Section	Days	Class Time		Room	Instructor		
+0900	SatSun	09:00AM - 11:15AM		FH-905	Chan, Matthew		
+0901	TuTh	10:30AM - 11:20AM		FH-905	Rani, Chigurupati		Writing Intensive
+	TuThF	09:30AM - 10:20AM		FH-904	Rani, Chigurupati		Writing Intensive
+0902	TuTh	09:30AM - 11:45AM		FH-906	Kok, Ahmet		
+1000	MW	11:30AM - 12:20PM		FH-905	Chen, Yan		
+	MWTh	10:30AM - 11:20AM		FH-904	Chen, Yan		
+1100	MTh	12:30PM - 01:20PM		FH-905	Persaud, Colin		
+	MWTh	11:30AM - 12:20PM		FH-904	Persaud, Colin		
+1101	MW	11:00AM - 11:50AM		MU-M1410	Scheiman, Arnold		
+	MW	12:00PM - 01:15PM		MU-M1105	Scheiman, Arnold		
+1200	Th	01:55PM - 02:45PM		FH-401	Errera, Alberto		
+	Th	12:30PM - 01:45PM		FH-907	Errera, Alberto		
+	Tu	12:30PM - 02:45PM		FH-907	Errera, Alberto		
+1300	MTuTh	01:30PM - 02:20PM		FH-904	Salvati, Anna		
+	TuTh	02:30PM - 03:20PM		FH-905	Salvati, Anna		
+1400	M	02:30PM - 03:20PM		FH-804	Veyler, Mikhail		
+	M	03:30PM - 04:20PM		FH-907	Veyler, Mikhail		
+	Th	02:30PM - 04:10PM		MU-M1201	Veyler, Mikhail		
+	Th	04:20PM - 05:10PM		MU-M1408	Veyler, Mikhail		
+1500	Th	04:25PM - 05:15PM		FH-907	Romano, Robert		
+	Tu	04:25PM - 05:15PM		FH-906	Romano, Robert		
+	TuThF	03:30PM - 04:20PM		FH-904	Romano, Robert		
+1700	MW	05:20PM - 06:10PM		FH-904	Persaud, Colin		
+	MW	06:20PM - 07:35PM		FH-905	Persaud, Colin		
+1701	TuTh	05:20PM - 06:10PM		MU-M1118	Salvati, Anna		
+	TuTh	06:20PM - 07:35PM		MU-M1410	Salvati, Anna		
+1900	TuTh	07:40PM - 08:55PM		FH-1001	Chen, Danny		
+	TuTh	09:00PM - 09:50PM		FH-1001	Chen, Danny		
+1901	MW	07:40PM - 08:30PM		FH-905	Chan, Matthew		
+	MW	08:40PM - 09:55PM		FH-1113	Chan, Matthew		
+								
+CSC  210	Computer Programming II			5 Credits	4 Hours
+Section	Days	Class Time		Room	Instructor		
+0900	MW	09:00AM - 09:50AM		MU-M1410	Genis, Yakov		
+	MW	10:00AM - 10:50AM		MU-M1410	Genis, Yakov		
+	Th	09:00AM - 09:50AM		MU-M1105	Genis, Yakov		
+1200	M	01:30PM - 02:20PM		FH-906	Chen, Yan		
+	M	12:30PM - 01:20PM		FH-904	Chen, Yan		
+	Th	01:30PM - 02:20PM		FH-905	Chen, Yan		
+	Th	12:30PM - 01:20PM		FH-906	Chen, Yan		
+	W	12:30PM - 01:20PM		FH-905	Chen, Yan		
+1700	MW	05:20PM - 06:10PM		MU-M1410	Eckman, Robert		
+	MW	06:20PM - 07:35PM		MU-M1105	Eckman, Robert		
+1701	TuTh	05:20PM - 06:10PM		FH-906	Azhar, Mohammad		
+	TuTh	06:20PM - 07:35PM		FH-907	Azhar, Mohammad		
+1702	Th	05:20PM - 06:35PM		MU-M1218	Genis, Yakov		
+	Tu	05:20PM - 06:35PM		MU-M1218	Genis, Yakov		
+
+	TuTh	06:45PM - 07:35PM	MU-M1218	Genis, Yakov		
+								
+CSC  230	Discrete Structures		3 Credits	3 Hours
+Section	Days	Class Time	Room	Instructor		
+1400	M	02:30PM - 04:10PM	FH-904	Chen, Yan		Writing Intensive
+	Th	02:30PM - 03:20PM	FH-904	Chen, Yan		Writing Intensive
+1700	F	05:30PM - 08:15PM	FH-904	Chan, Matthew		
+								
+CSC  310	Assembler Language and Architecture I		4 Credits	3 Hours
+Section	Days	Class Time	Room	Instructor		
+1000	F	10:30AM - 12:10PM	FH-904	Scheiman, Arnold		
+	F	12:30PM - 02:10PM	FH-907	Scheiman, Arnold		
+1900	TuTh	07:45PM - 08:35PM	MU-M1411	Veyler, Mikhail		
+	TuTh	08:45PM - 09:35PM	MU-M1410	Veyler, Mikhail		
+								
+CSC  330	Data Structures I		4 Credits	3 Hours
+Section	Days	Class Time	Room	Instructor		
+1200	TuTh	01:00PM - 01:50PM	MU-M1209	Kok, Ahmet		
+	TuTh	12:00PM - 12:50PM	MU-M1106	Kok, Ahmet		
+1700	MW	05:20PM - 06:10PM	FH-905	Salvati, Anna		
+	MW	06:20PM - 07:10PM	FH-904	Salvati, Anna		
+								
+CSC  410	Assembler Language and Architecture II		4 Credits	3 Hours
+Section	Days	Class Time	Room	Instructor		
+1900	TuTh	07:40PM - 08:30PM	FH-906	Eckman, Robert		
+	TuTh	08:40PM - 09:30PM	FH-906	Eckman, Robert		
+								
+CSC  430	Data Structures II		4 Credits	3 Hours
+Section	Days	Class Time	Room	Instructor		
+1100	M	11:00AM - 11:50AM	MU-M1409	Genis, Yakov		
+	MW	12:00PM - 12:50PM	MU-M1410	Genis, Yakov		
+	W	11:00AM - 11:50AM	MU-M1106	Genis, Yakov		
+1700	MW	05:20PM - 06:10PM	MU-M1106	Genis, Yakov		
+	MW	06:20PM - 07:10PM	MU-M1410	Genis, Yakov		
+								
+		

@@ -1,0 +1,137 @@
+BUS  104	Introduction to Business			3 Credits	3 Hours
+Section	Days	Class Time		Room	Instructor		
+0500		 - 		OL-01	Conway, Katherine		Writing Intensive
+0700	M	07:00AM - 07:50AM		FH-612	Schroeder, Julian		
+	W	07:00AM - 08:40AM		FH-612	Schroeder, Julian		
+0800	M	08:00AM - 09:40AM		FH-612	McGuinn, Patricia		
+	W	09:00AM - 09:50AM		FH-612	McGuinn, Patricia		
+0801	Th	08:30AM - 11:15AM		FH-612	Chu, Hung		
+0803	Sat	08:30AM - 12:15PM		FH-209	Lacsamana, Corazon		
+0901	F	09:00AM - 10:40AM		FH-406	Ikwueze, Lawrence		
+	W	09:00AM - 09:50AM		FH-406	Ikwueze, Lawrence		
+0902	Tu	09:00AM - 10:40AM		FH-807	Smoke, Gary		
+	Tu	11:00AM - 11:50AM		FH-703	Smoke, Gary		
+0903	Sun	09:00AM - 11:45AM		FH-603	Goldstein, Joseph		
+0904	M	09:30AM - 12:15PM		FH-807	Campos, Guadalupe		
+0905	F	09:30AM - 12:15PM		FH-707	Campos, Guadalupe		
+1000	M	10:00AM - 12:45PM		FH-612	Ginsberg, Chaim		
+1001	M	10:00AM - 12:45PM		FH-1007	Adamou, Nikolaos		Writing Intensive
+1002	Tu	10:00AM - 12:45PM		FH-603	Ginsberg, Chaim		
+1003	Tu	10:00AM - 12:45PM		FH-607	Adamou, Nikolaos		Writing Intensive
+1004	W	10:00AM - 12:45PM		FH-603	Ginsberg, Chaim		
+1005	Th	10:00AM - 12:45PM		FH-607	Campos, Guadalupe		
+1007	MW	10:30AM - 11:45AM		FH-703	Ikwueze, Lawrence		
+1008	Th	10:30AM - 01:15PM		FH-807	Ikwueze, Lawrence		
+1100	Th	11:00AM - 01:45PM		FH-410	Justo, Orlando		
+1101	M	11:30AM - 12:45PM		FH-607	Thanos, Lori		
+	W	11:30AM - 12:45PM		FH-406	Thanos, Lori		
+1103	F	11:00AM - 01:45PM		FH-307	Cooperman, Ronald		
+1200	MW	12:00PM - 01:15PM		FH-703	Smoke, Gary		
+1201	M	12:00PM - 01:40PM		FH-406	Chu, Hung		
+	W	01:00PM - 01:50PM		FH-603	Chu, Hung		
+1202	F	12:30PM - 03:15PM		FH-707	Deri, Belen		
+1300	M	01:00PM - 03:45PM		FH-707	Ikwueze, Lawrence		
+1301	Th	01:00PM - 01:50PM		FH-309	Chu, Hung		
+	Tu	01:00PM - 02:40PM		FH-309	Chu, Hung		
+1302	M	01:30PM - 04:15PM		FH-703	Ginsberg, Chaim		
+1303	Tu	01:30PM - 04:15PM		FH-603	Ginsberg, Chaim		
+1400	M	02:00PM - 02:50PM		FH-603	Hong, Jeff Seungmo		
+	Th	02:00PM - 03:40PM		FH-707	Hong, Jeff Seungmo		
+1401	Th	02:00PM - 03:40PM		FH-703	Thanos, Lori		
+	Tu	02:00PM - 02:50PM		FH-703	Thanos, Lori		
+1500	M	03:00PM - 04:40PM		FH-603	Washington, Joyce		
+
+	W	04:00PM - 04:50PM		FH-612	Washington, Joyce			
+1600	M	04:00PM - 05:15PM		FH-612	Hong, Jeff Seungmo			
+	W	04:00PM - 05:15PM		FH-807	Hong, Jeff Seungmo			
+1601	TuTh	04:00PM - 05:15PM		FH-406	Washington, Joyce			
+1602	M	05:00PM - 05:50PM		FH-603	Ikwueze, Lawrence			
+	W	04:00PM - 05:40PM		FH-603	Ikwueze, Lawrence			
+1603	Tu	04:30PM - 07:15PM		FH-303	Papadopoulos, Steve			
+1700	F	05:30PM - 08:15PM		FH-707	Campos, Guadalupe			
+1701	Sat	05:30PM - 08:15PM		FH-603	McGuinn, Patricia			
+1800	TuTh	06:00PM - 07:15PM		FH-603	Washington, Joyce			
+1900	MW	07:20PM - 08:35PM		FH-612	Lang, David			
+1901	TuTh	07:20PM - 08:35PM		FH-309	Okor, David			
+								
+BUS  110	Business Law			3 Credits	3 Hours
+Section	Days	Class Time		Room	Instructor			
+0700	M	07:00AM - 08:40AM		FH-208	McMillan, Bridgett			
+	W	07:00AM - 07:50AM		FH-603	McMillan, Bridgett			
+0800	Tu	08:00AM - 10:45AM		FH-612	Evans, Joel			
+0801	Th	08:00AM - 10:45AM		FH-406	Evans, Joel			
+0803	Sat	08:30AM - 11:15AM		FH-603	Berg, Brian			
+0900	M	09:00AM - 11:45AM		FH-303	McMillan, Bridgett			
+0901	TuTh	09:30AM - 10:45AM		FH-703	Basic, Anne Marie			
+0903	F	09:00AM - 10:15AM		FH-206	Smoke, Gary			
+	W	09:00AM - 10:15AM		FH-904	Smoke, Gary			
+1001	M	10:00AM - 11:15AM		FH-603	Lambert, Percy			
+	W	10:00AM - 11:15AM		FH-612	Lambert, Percy			
+1002	F	10:00AM - 12:45PM		FH-603	Lambert, Percy			
+1100	F	11:00AM - 12:40PM		FH-406	Clare, Ronald			
+	Tu	12:00PM - 12:50PM		FH-612	Clare, Ronald			
+1102	M	11:30AM - 12:45PM		FH-603	Lambert, Percy			
+	W	11:30AM - 12:45PM		FH-612	Lambert, Percy			
+1103	Th	11:30AM - 12:45PM		FH-612	Basic, Anne Marie			
+	Tu	11:30AM - 12:45PM		FH-303	Basic, Anne Marie			
+1200	M	12:00PM - 02:45PM		FH-303	Basic, Anne Marie			
+1201	Th	12:00PM - 01:40PM		FH-703	Anderson, Kenneth			
+	Tu	01:00PM - 01:50PM		FH-703	Anderson, Kenneth			
+1300	MF	01:00PM - 01:50PM		FH-603	Lambert, Percy			
+	W	01:00PM - 01:50PM		FH-612	Lambert, Percy			
+1301	TuTh	01:00PM - 02:15PM		FH-612	Clare, Ronald			
+1302	F	01:00PM - 03:45PM		FH-406	Smoke, Gary			
+1400	M	02:00PM - 03:40PM		FH-803	Anderson, Kenneth			
+	Th	02:00PM - 02:50PM		FH-406	Anderson, Kenneth			
+1402	TuTh	02:30PM - 03:45PM		FH-612	Clare, Ronald			
+1500	Tu	03:00PM - 05:45PM		FH-309	Larrington, Stephen			
+1501	Th	03:30PM - 04:45PM		FH-1113	Anderson, Kenneth			
+	Tu	03:30PM - 04:45PM		FH-609	Anderson, Kenneth			
+1600	TuTh	04:00PM - 05:15PM		FH-612	Clare, Ronald			
+1700	M	05:30PM - 08:15PM		FH-406	Anderson, Kenneth			
+1701	Th	05:30PM - 06:45PM		FH-703	Anderson, Kenneth			
+
+	Tu	05:30PM - 06:45PM	FH-406	Anderson, Kenneth		
+1702	F	05:30PM - 08:15PM	FH-612	Clare, Ronald		
+1800	MW	06:00PM - 07:15PM	FH-309	Barrera, Naomi		
+1900	MW	07:20PM - 08:35PM	FH-603	Smoke, Gary		
+1901	TuTh	07:20PM - 08:35PM	FH-406	Anderson, Kenneth		
+2000	TuTh	08:50PM - 10:05PM	FH-406	Larrington, Stephen		
+								
+BUS  150	Business Communication				3 Credits	3 Hours
+Section	Days	Class Time	Room	Instructor		
+1000	F	10:00AM - 12:45PM	FH-807	Campos, Francisca		
+1400	Th	02:00PM - 04:45PM	FH-807	Jackson, Shawn		
+1700	F	05:30PM - 08:15PM	FH-807	Campos, Francisca		
+1800		 - 	OL-01	Campos, Francisca		
+	W	06:00PM - 07:15PM	FH-807	Campos, Francisca		
+1900	TuTh	07:20PM - 08:35PM	FH-607	Bergren, Marybeth		
+								
+BUS  200	Business Organization and Management				3 Credits	3 Hours
+Section	Days	Class Time	Room	Instructor		
+0800	Sat	08:30AM - 11:26AM	FH-406	Zaragoza, Shirley		Writing Intensive
+1000	M	10:00AM - 11:15AM	FH-607	Thanos, Lori		
+	W	10:00AM - 11:15AM	FH-406	Thanos, Lori		
+1001	W	10:00AM - 12:45PM	FH-807	Adamou, Nikolaos		
+1002	F	10:30AM - 11:45AM	FH-703	Zaragoza, Shirley		Writing Intensive
+	M	10:30AM - 11:45AM	FH-406	Zaragoza, Shirley		Writing Intensive
+1300	Tu	01:00PM - 03:45PM	FH-607	Adamou, Nikolaos		Writing Intensive
+1700	F	05:30PM - 08:15PM	FH-703	Zaragoza, Shirley		Writing Intensive
+1800	MW	06:00PM - 07:15PM	FH-603	Sauls, Donnie		
+								
+BUS  210	Business Methods				3 Credits	3 Hours
+Section	Days	Class Time	Room	Instructor		
+1200	Th	12:00PM - 01:40PM	FH-707	Hong, Jeff Seungmo		
+	Tu	01:00PM - 01:50PM	FH-807	Hong, Jeff Seungmo		
+1800	MW	06:00PM - 07:15PM	FH-612	Baskin, Jeffrey		
+								
+BUS  220	Managerial Decision Making				3 Credits	3 Hours
+Section	Days	Class Time	Room	Instructor		
+0900	MW	09:00AM - 10:15AM	FH-703	Chu, Hung		
+1800	Tu	06:00PM - 08:45PM	FH-1007	Defeis, George		
+								
+BUS  311	Human Resources Management				3 Credits	3 Hours
+Section	Days	Class Time	Room	Instructor		
+1200		 - 	OL-01	Jackson, Shawn		Writing Intensive
+	M	01:00PM - 01:50PM	FH-607	Jackson, Shawn		Writing Intensive
+1900	MW	07:20PM - 08:35PM	FH-807	Asare, Jane		
